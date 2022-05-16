@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 Hello i am using stash example....
+=======
+Hello i am commiting in stage branch...
+>>>>>>> 554effacd7bac3046b5bdbf8bedd8461e414e47a
 Hello i am in dev branch...
 Hello guys 
 Git commands are very important
